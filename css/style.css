@@ -446,6 +446,9 @@ section .container {
   font-family: "Raleway", sans-serif;
   font-size: 14px;
 }
+.counts .count-box span::after {
+  content: "%";
+}
 
 /*--------------------------------------------------------------
    # 
