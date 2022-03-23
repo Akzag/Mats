@@ -55,7 +55,10 @@ h6 {
   font-family:  sans-serif;
   
 }
-
+.neon{
+  text-shadow: 1px 1px 1px black, 0 0 1em rgb(0, 195, 255), 0 0 0.5em rgb(0, 81, 255);
+  color: white;
+}
 
 
 /*--------------------------------------------------------------
@@ -83,7 +86,7 @@ h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Righteous", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
 
   
 }
@@ -154,7 +157,7 @@ h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgb(0, 0, 0);
 }
 #header.header-top .social-links,
 #header.header-top h2 {
@@ -224,6 +227,7 @@ h6 {
   font-size: 12px;
   line-height: 0;
   margin-left: 5px;
+  
 }
 .navbar a:before {
   content: "";
@@ -285,6 +289,7 @@ h6 {
   transition: 0.3s;
   z-index: 999;
   margin-top: 0;
+  
 }
 .navbar-mobile .mobile-nav-toggle {
   position: absolute;
@@ -313,6 +318,7 @@ h6 {
 .navbar-mobile a:focus {
   font-size: 16px;
   position: relative;
+  
 }
 
 /*--------------------------------------------------------------
