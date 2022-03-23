@@ -1,9 +1,3 @@
-/**
-* Template Name: Persona - v4.7.0
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 
@@ -425,21 +419,25 @@ section .container {
 
 .counts {
   padding: 70px 0 60px;
+  
 }
 .counts .count-box {
-  padding: 30px 30px 25px 30px;
+  padding: 30px 30px 30px 30px;
   width: 100%;
+  height: 150px;
   position: relative;
+  left: 50%;
+  right: 50%;
   text-align: center;
   background: rgba(241, 235, 235, 0.08);
 }
 .counts .count-box i {
   position: absolute;
-  top: -30px;
+  top: -10px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 24px;
-  background: rgba(177, 160, 160, 0.1);
+  font-size: 25px;
+  background: rgba(241, 235, 235, 0.08);
   padding: 12px;
   color: #2699ec;
   border-radius: 50px;
