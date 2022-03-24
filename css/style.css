@@ -702,8 +702,9 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-   # Contacto
+   # Contact
    --------------------------------------------------------------*/
+
 
 /*--------------------------------------------------------------
    # Credits
@@ -717,7 +718,7 @@ section .container {
   text-align: center;
   font-size: 14px;
   color: rgb(255, 255, 255);
-  background-color: rgba(0, 0, 0, 0.116;
+  background-color: rgba(0, 0, 0, 0.116);
 }
 @media (max-width: 992px) {
   .credits {
