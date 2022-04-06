@@ -572,7 +572,7 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-   # Otros Conocimientos
+   # Iconos porta
    --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
@@ -582,8 +582,8 @@ section .container {
 }
 .services .icon-box .icon {
   margin: 0 auto;
-  width: 64px;
-  height: 64px;
+  width: 125px;
+  height: 125px;
   background: #2699ec;
   border-radius: 5px;
   transition: all 0.3s ease-out 0s;
