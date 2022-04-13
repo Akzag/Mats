@@ -21,6 +21,7 @@
   <script src="https://kit.fontawesome.com/6aa143fa9b.js" crossorigin="anonymous"></script>
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/uikit.min.css" />
   <link href="css\style.css" rel="stylesheet">
 </head>
 
@@ -35,7 +36,7 @@
           <li><a class="nav-link active" href="#header">Inicio</a></li>
           <li><a class="nav-link" href="#about">Sobre Mi</a></li>
           <li><a class="nav-link" href="#resume">Conocimientos</a></li>
-          <li><a class="nav-link" href="#services">Portafolio</a></li>
+          <li><a class="nav-link" href="#portfolio">Portafolio</a></li>
           <li><a href='mailto:rgasca01@gmail.com.com' target="_blank">Contactame</a></li>
         </ul>
         <i class="bi mobile-nav-toggle bi-list"></i>
@@ -86,7 +87,7 @@
       </div>
     </div>
     <!-- -------  //////////////////// ------- -->
-    <!-- -------- Int reses --------  -->
+    <!-- -------- interests --------  -->
     <div class="interests container">
       <div class="section-title">
         <h2>Intereses</h2>
@@ -291,7 +292,7 @@
   <!-- ======= Fin Seccion Conocimiento ======= -->
 
   <!-- ======= Seccion Portafolio ======= -->
-  <section id="services" class="services">
+  <section id="portfolio" class="portfolio">
     <div class="container">
 
       <div class="section-title">
@@ -302,19 +303,49 @@
       <div class="row  row-cols-sm-1 row-cols-md-3">
 
         <div class="col">
-          <div class="icon-box">
-            <div class="icon"><img src="images/logos/tiburonlogo.png" class="img-fluid"></div>
-            <h4><a href="https://play.google.com/store/apps/details?id=apps.ejemplo.mateacuaticas" target="_blank">
-                Matecuaticas </a></h4>
-            <p>App matematica infantil</p>
+          <div class="col-flex">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                  <img class="icon" src="images/logos/tiburonlogo.png">
+                </div>
+                <div class="flip-card-back uk-animation-toggle">
+                  <h2 class=""> Monster Game </h2>
+                  <a href="https://play.google.com/store/apps/details?id=apps.ejemplo.mateacuaticas" target="_blank">
+                    <i class="fa fa-play fa-2x i-right" aria-hidden="true"></i>
+                  </a>
+                  <h2>Technologies</h2>
+                  <br>
+                  <img class="svg" src="images/SVG/HTML5.svg" alt="Html" width="25">
+                  <img class="svg" src="images/SVG/CSS.svg" alt="Css" width="25">
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 
         <div class="col">
-          <div class="icon-box">
-            <div class="icon"><img src="images/logos/MrPc.jpg" class="img-fluid"></div>
-            <h4><a href="https://akzag.github.io/Mr_pc_pag/" target="_blank"> Mr.Pc </a></h4>
-            <p>Pagina de servicios computacionales</p>
+          <div class="col-flex">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                  <img class="icon" src="images/logos/MrPc.jpg">
+                </div>
+                <div class="flip-card-back uk-animation-toggle">
+                  <h2 class=""> Monster Game </h2>
+                  <a href="https://github.com/Akzag/Mr_pc_pag" target="_blank">
+                    <i class="fa fa-github fa-2x i-right" aria-hidden="true"></i>
+                  </a>
+                  <a href="https://akzag.github.io/Mr_pc_pag/" target="_blank">
+                    <i class="fa fa-play fa-2x i-right" aria-hidden="true"></i>
+                  </a>
+                  <h2>Technologies</h2>
+                  <br>
+                  <img class="svg" src="images/SVG/HTML5.svg" alt="Html" width="25">
+                  <img class="svg" src="images/SVG/CSS.svg" alt="Css" width="25">
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -326,25 +357,17 @@
                   <img class="icon" src="images/logos/ElGame.png">
                 </div>
                 <div class="flip-card-back uk-animation-toggle">
-                  <h2 class="uk-h2 uk-text-capitalize uk-margin-medium-top"> Monster Game </h2>
-                  <p>
-                    <a href="https://github.com/Hospitalxona/Asistencia" target="_blank">
-                      <i class="bi bi-github" aria-hidden="true"></i>
-                    </a>
-                    <a href="https://scintillating-cuchufli-e40917.netlify.app" target="_blank">
-                      <i class="bi bi-caret-right-square" aria-hidden="true"></i>
-                    </a>
-                  </p>
-                  <section class="tecnologies uk-animation-fade">
-                    <p>Technologies</p>
-                    <br>
-                    <img class="svg" src="img/laravel.svg" alt="Laravel" width="25">
-                    <img class="svg" src="img/Mysql.svg" alt="MySQL" width="25">
-                    <img class="  " src="images/SVG/HTML5.svg" alt="Html" width="25">
-                    <img class="" src="images/SVG/CSS.svg" alt="Css" width="25">
-                    <img class="svg" src="img/jquery.svg" alt="jQuery" width="25">
-                    <img class="svg" src="img/bootstrap.svg" alt="Bootstrap" width="25">
-                  </section>
+                  <h2 class=""> Monster Game </h2>
+                  <a href="https://github.com/Akzag/El-Game" target="_blank">
+                    <i class="fa fa-github fa-2x i-right" aria-hidden="true"></i>
+                  </a>
+                  <a href="https://scintillating-cuchufli-e40917.netlify.app" target="_blank">
+                    <i class="fa fa-play fa-2x i-right" aria-hidden="true"></i>
+                  </a>
+                  <h2>Technologies</h2>
+                  <br>
+                  <img class="svg" src="images/SVG/HTML5.svg" alt="Html" width="25">
+                  <img class="svg" src="images/SVG/CSS.svg" alt="Css" width="25">
                 </div>
               </div>
             </div>
@@ -375,7 +398,7 @@
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
   <script src="assets/js/main.js"></script>
 
-  <script src="uikit/dist/js/uikit-icons.min.js"></script>
+  <script src="assets/js/uikit-icons.min.js"></script>
 
 </body>
 
