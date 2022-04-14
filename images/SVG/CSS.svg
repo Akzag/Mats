@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" xmlns:v="https://vecta.io/nano"><path fill="#2196f3" d="M1 0l1.275 14.4L8 16l5.723-1.6L15 0z"/><path fill="#fafafa" d="M12.274 4.71l-.647 7.232-3.63 1.004-3.625-1.004-.253-2.836h1.776l.132 1.47 1.97.532.001-.001 1.974-.532.27-2.45-6.208.017-.176-1.676 6.533-.077.132-1.794-6.84.02-.115-1.67h8.864z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns:v="https://vecta.io/nano"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 22.3"
+	 style="enable-background:new 0 0 16 22.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2196F3;}
+	.st1{fill:#FAFAFA;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:5px;}
+</style>
+<path class="st0" d="M1,0l1.3,14.4L8,16l5.7-1.6L15,0H1z"/>
+<path class="st1" d="M12.3,4.7l-0.6,7.2l-3.6,1l-3.6-1L4.1,9.1h1.8L6,10.6l2,0.5l0,0l2-0.5l0.3-2.4L4,8.1L3.9,6.5l6.5-0.1l0.1-1.8
+	l-6.8,0L3.6,2.9h8.9L12.3,4.7z"/>
+<text transform="matrix(1 0 0 1 2.8594 21.0104)" class="st2 st3 st4">CSS</text>
+</svg>

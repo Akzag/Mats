@@ -483,7 +483,7 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-   # Lenguajes
+   # Skills
    --------------------------------------------------------------*/
 
 .skills .progress {
@@ -700,7 +700,7 @@ section .container {
   background-color: transparent;
   width: 250px;
   height: 250px;
-  perspective: 1000px
+  perspective: 1000px;
 }
 
 .flip-card-inner {
@@ -710,9 +710,9 @@ section .container {
   text-align: center;
   transition: transform .6s;
   transform-style: preserve-3d;
-  -webkit-box-shadow: 0 10px 6px -6px #3543be;
-  -moz-box-shadow: 0 10px 6px -6px #001aff;
-  box-shadow: 0 10px 6px -6px #3543be
+  -webkit-box-shadow: 0 10px 6px -6px #2699ec;
+  -moz-box-shadow: 0 10px 6px -6px #2699ec;
+  box-shadow: 0 10px 6px -6px #2699ec
 }
 
 .flip-card:hover .flip-card-inner {
@@ -725,13 +725,19 @@ section .container {
   width: 100%;
   height: 100%;
   -webkit-backface-visibility: hidden;
-  backface-visibility: hidden
+  backface-visibility: hidden;
+
 }
 
 .flip-card-back {
-  background-color: #00d9ff65;
+  background-color: #120204;
   color: #fff;
   transform: rotateX(180deg)
+}
+
+.i-right {
+  float: center;
+  padding-right: 20px;
 }
 
 .i-right:hover {
@@ -740,19 +746,36 @@ section .container {
   -moz-transform: scale(1.5) !important;
   -o-transform: scale(1.5) !important;
   transition-delay: 0.2s;
-  margin-right: 10px;
+  margin-bottom: 10px;
   cursor: pointer;
 
 }
 
-.i-left:hover {
-  transform: scale(1.5) !important;
-  -webkit-transform: scale(1.5) !important;
-  -moz-transform: scale(1.5) !important;
-  -o-transform: scale(1.5) !important;
-  transition-delay: 0.2s;
-  margin-left: 10px;
-  cursor: pointer;
+.tibu {
+  background-image: url("../images/logos/MatecuBG.jpg");
+  width: 100%;
+  height: 100%;
+  background-size: Fill;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.mrpc {
+  background-image: url("../images/logos/MrpcBG.jpg");
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.elgame {
+  background-image: url("../images/logos/ElGameBG.jpg");
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 @supports (object-fit:cover) {
@@ -784,13 +807,12 @@ section .container {
   }
 }
 
-.svg {
-  margin: 10px
+.h2 {
+  padding-top: 20px;
 }
 
 .tecnologies img {
   margin-right: 1px;
-  margin-bottom: -30px;
 }
 
 
