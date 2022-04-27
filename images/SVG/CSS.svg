@@ -1,17 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns:v="https://vecta.io/nano"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 22.3"
-	 style="enable-background:new 0 0 16 22.3;" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 686" style="enable-background:new 0 0 512 686;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#2196F3;}
-	.st1{fill:#FAFAFA;}
-	.st2{fill:#FFFFFF;}
-	.st3{font-family:'Arial-BoldMT';}
-	.st4{font-size:5px;}
+	.st0{display:none;}
+	.st1{display:inline;fill:#7F7F7F;}
+	.st2{display:inline;fill:#FF5722;}
+	.st3{display:inline;fill:#FAFAFA;}
+	.st4{display:inline;fill:#FCF7F7;}
+	.st5{font-family:'Arial-BoldMT';}
+	.st6{font-size:160px;}
+	.st7{display:inline;}
+	.st8{fill:#563D7C;}
+	.st9{fill:#FFFFFF;}
+	.st10{display:inline;fill:#EFEDED;}
+	.st11{font-size:106.7523px;}
+	.st12{fill:#2196F3;}
+	.st13{fill:#F7F7F7;}
+	.st14{font-size:162.1556px;}
 </style>
-<path class="st0" d="M1,0l1.3,14.4L8,16l5.7-1.6L15,0H1z"/>
-<path class="st1" d="M12.3,4.7l-0.6,7.2l-3.6,1l-3.6-1L4.1,9.1h1.8L6,10.6l2,0.5l0,0l2-0.5l0.3-2.4L4,8.1L3.9,6.5l6.5-0.1l0.1-1.8
-	l-6.8,0L3.6,2.9h8.9L12.3,4.7z"/>
-<text transform="matrix(1 0 0 1 2.8594 21.0104)" class="st2 st3 st4">CSS</text>
+<g id="Capa_4" class="st0">
+	<rect x="-17.9" y="-17.3" class="st1" width="573.1" height="740.2"/>
+</g>
+<g id="HTML" xmlns:v="https://vecta.io/nano" class="st0">
+	<path class="st2" d="M32,0l40.8,460.8L256,512l183.1-51.2L480,0H32z"/>
+	<path class="st3" d="M391.5,150.7H176.8l5.1,57.9h204.5L371,382.1l-115.1,32.1L141,382.1l-8-90.8h56.3l4.2,47.1l62.6,17l62.6-17
+		l6.5-73.3H130.6L115.5,94.2h281.1L391.5,150.7z"/>
+	<text transform="matrix(1 0 0 1 52.6562 658)" class="st4 st5 st6">HTML</text>
+</g>
+<g id="BossTrap" class="st0">
+	<g class="st7">
+		<path class="st8" d="M18.1,444.2c0,36.3,27.4,65.7,61.1,65.7h351.8c33.7,0,61.1-29.5,61.1-65.7V65.7c0-36.3-27.4-65.7-61.1-65.7
+			H79.2C45.5,0,18.1,29.5,18.1,65.7V444.2z"/>
+		<path class="st9" d="M214.8,225.5v-72.1h59.1c5.6,0,11.1,0.6,16.3,1.6s9.8,2.8,13.9,5.4c4.1,2.6,7.2,6.2,9.6,10.8
+			c2.4,4.6,3.7,10.6,3.7,17.7c0,12.9-3.7,22.3-10.9,28.1c-7.2,5.8-16.5,8.6-27.8,8.6L214.8,225.5L214.8,225.5z M151.6,100.6v308.7
+			h139.1c12.8,0,25.4-1.8,37.6-5.2c12.2-3.4,23-8.8,32.6-15.9c9.4-7.2,17-16.5,22.8-27.9c5.7-11.4,8.5-24.9,8.5-40.4
+			c0-19.3-4.4-35.9-13.1-49.6c-8.7-13.7-21.9-23.3-39.6-28.7c12.8-6.6,22.6-15.1,29.1-25.5c6.5-10.4,9.8-23.3,9.8-38.8
+			c0-14.3-2.2-26.5-6.7-36.3c-4.4-9.8-10.7-17.7-18.7-23.5c-8-6-17.8-10.2-28.9-12.7s-23.7-4-37.4-4h-135V100.6z M214.8,356.5v-84.7
+			h68.7c13.7,0,24.6,3.4,33,10.2c8.3,6.8,12.4,18.1,12.4,33.9c0,8.2-1.3,14.7-3.9,19.9s-5.9,9.4-10.2,12.3c-4.3,3-9.3,5.2-14.8,6.6
+			s-11.5,2-17.8,2h-67.4V356.5z"/>
+	</g>
+	<text transform="matrix(0.9367 0 0 1 19.8916 635.0254)" class="st10 st5 st11">Bootstrap</text>
+</g>
+<g id="Capa_3">
+	<path class="st12" d="M30.8,0l41.8,461.4L256,512.6l183.4-51.3L481.3,0H30.8z"/>
+	<path class="st13" d="M394.4,150.6l-19.3,230.7l-115.8,32l-115.8-32l-12.9-89.7h57.9l3.2,48.1l64.3,16l0,0l64.3-16l9.7-76.9
+		l-202.7-3.2l-3.2-51.3l209.1-3.2l3.2-57.7H117.7l-3.2-54.5h286.3L394.4,150.6z"/>
+	<text transform="matrix(1.1272 0 0 1 68.0803 661.834)" class="st9 st5 st14">CSS</text>
+</g>
 </svg>

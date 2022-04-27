@@ -20,7 +20,7 @@ body::before {
   left: 0;
   right: 0;
   top: 0;
-  height: 800px;
+  height: 1189px;
 }
 
 @media (min-width: 1024px) {
@@ -39,6 +39,8 @@ a:hover {
   text-decoration: none;
 }
 
+
+
 h1,
 h2,
 h3,
@@ -53,6 +55,7 @@ h6 {
   text-shadow: 1px 1px 1px black, 0 0 1em rgb(0, 195, 255), 0 0 0.5em rgb(0, 81, 255);
   color: white;
 }
+
 
 
 /*--------------------------------------------------------------
@@ -829,7 +832,7 @@ section .container {
   position: absolute;
   right: 0;
   left: 0;
-  bottom: 60px;
+  bottom: 0px;
   padding: 20px;
   text-align: center;
   font-size: 14px;
